@@ -1,0 +1,15 @@
+select * from new1;
+use ali;
+drop table customers;
+create table customers ( Id int,Name Varchar(30),Age Int,Address varchar(35),salary int)	;
+insert into customers values( 1,'Ramesh',25,'Hyderabad',230000);
+insert into customers values (2,'ShabberAli SK',24, 'Bhadrachalam',20000)  ;                 
+insert into customers values(3,'Manjula Buddappagari',24,'Hyderabad',23000);
+insert into customers values(4,'Vinay Babu Muppirisetty',22 ,'Hyderabad',  2400)  ;              
+insert into customers values(5,'Vemuru Vishnu Maheswar ' ,20,'Hyderabad' ,2500)  ;                       
+insert into customers values(6,'Akula Adithya Ramya Moulika ',29 ,'Hyderabad' , 40000) ;          
+insert into customers values(7,'Muppana Sai Sandeep  ' ,24 ,'Hyderabad', 4000) ;                    
+insert into customers values(8,'Navya Sakhamuri '  ,25,  'Hyderabad', 50000) ;                          
+insert into customers values(9,'Sai Sruthi Neriyanuri' ,22 , 'Hyderabad',3400) ;                    
+insert into customers values(10,'Thusheera Potla'   ,25,  'Hyderabad', 6700)  ;                          
+insert into customers values(11,'Alapati Naga Venkata Haswanth',   25  ,'Hyderabad',8000) ;
