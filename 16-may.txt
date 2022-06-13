@@ -1,0 +1,11 @@
+Custom fields facilitate users to add additional metadata content for each data object. 
+OvalEdge default provides a list of standard fields like minimum/maximum count, 
+density, null density, distinct count, etc. However, users can create additional custom 
+fields such as the median, sum, etc. to add more information about the data using the 
+custom field module.
+
+farmarmac
+
+https://console.aws.amazon.com/console/home
+srilakshmi
+0valEdge@12
